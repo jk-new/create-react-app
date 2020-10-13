@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/create-react-app/static/css/main.df80b2f5.chunk.css",
+    "main.js": "/create-react-app/static/js/main.3534c2ec.chunk.js",
+    "main.js.map": "/create-react-app/static/js/main.3534c2ec.chunk.js.map",
+    "runtime-main.js": "/create-react-app/static/js/runtime-main.98e9b92b.js",
+    "runtime-main.js.map": "/create-react-app/static/js/runtime-main.98e9b92b.js.map",
+    "static/js/2.3138836b.chunk.js": "/create-react-app/static/js/2.3138836b.chunk.js",
+    "static/js/2.3138836b.chunk.js.map": "/create-react-app/static/js/2.3138836b.chunk.js.map",
+    "index.html": "/create-react-app/index.html",
+    "precache-manifest.961687362791f7a7d6ef4b81923a5228.js": "/create-react-app/precache-manifest.961687362791f7a7d6ef4b81923a5228.js",
+    "service-worker.js": "/create-react-app/service-worker.js",
+    "static/css/main.df80b2f5.chunk.css.map": "/create-react-app/static/css/main.df80b2f5.chunk.css.map",
+    "static/js/2.3138836b.chunk.js.LICENSE.txt": "/create-react-app/static/js/2.3138836b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/create-react-app/static/media/bg.5e065a45.jpg",
+    "static/media/weather-icons.css": "/create-react-app/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e9b92b.js",
+    "static/js/2.3138836b.chunk.js",
+    "static/css/main.df80b2f5.chunk.css",
+    "static/js/main.3534c2ec.chunk.js"
+  ]
+}
